@@ -1,0 +1,5 @@
+{
+  "name": "DevToolkit AI",
+  "description": "A suite of AI-powered productivity tools for developers, including a bug explainer, a local code snippet manager, and a conventional commit message generator.",
+  "requestFramePermissions": []
+}
